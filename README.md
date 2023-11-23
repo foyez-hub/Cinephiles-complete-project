@@ -29,6 +29,7 @@ Cinephiles is a feature-rich web application designed for movie enthusiasts. Thi
 
 
 Download code from peoject-code Branch.
+Download database file cinephilesdb from main Branch and import to your local server.
 
 Download link for movie clips: https://drive.google.com/drive/u/1/folders/1uaIUwkFTK9N3TU6E0Ozx34gwHanr2lmF
 
