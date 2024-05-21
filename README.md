@@ -1,5 +1,5 @@
 
-![image-removebg-preview](https://github.com/foyez-hub/Cinephiles-complete-project/assets/59407058/30aa1f9f-4ba9-408a-8cab-8dce4730e86f)
+![Chinephiles-GoogleChrome2024-04-2615-53-42online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/foyez-hub/Cinephiles-complete-project/assets/59407058/e00d233a-9446-4776-a53e-198df2e23c6d)
 
 
 
