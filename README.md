@@ -1,3 +1,6 @@
+![Uploading Chinephiles-GoogleChrome2024-04-2615-53-42online-video-cutter.com-ezgif.com-video-to-gif-converter.gif…]()
+
+
 # Cinephiles
 
 Cinephiles is a feature-rich web application designed for movie enthusiasts. This platform offers a comprehensive movie-watching experience, allowing users to discover, connect, and engage in various activities related to their favorite films.
